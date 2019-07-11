@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 from keras import backend as K
 from keras.layers import Input, Dense, Flatten, Dropout, Reshape, concatenate
